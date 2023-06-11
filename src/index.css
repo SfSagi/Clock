@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(203, 217, 217);
+}
+.box{
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  background-color:#ffffff;
+  padding: 25px;
+  padding-top: 40px;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 285px;
+
+}
+.pcolor{
+  color:rgb(72, 72, 72);
+}
+.h1color{
+  color:rgb(72, 72, 72);
+  
+}
